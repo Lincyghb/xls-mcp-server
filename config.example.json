@@ -1,9 +1,0 @@
-{
-  "mcpServers": {
-    "xls-excel-server": {
-      "command": "python",
-      "args": ["/path/to/xls-mcp-servers/server.py"],
-      "cwd": "/path/to/xls-mcp-servers"
-    }
-  }
-}
